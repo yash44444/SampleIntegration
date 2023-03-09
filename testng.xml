@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test name="C:/Users/hp/Desktop/2023/Frameworks/JenkinsIntegration">
+        <classes>
+            <class name="com.ibm.tests.TestCase">
+                <methods>
+                    <include name="sampleTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
