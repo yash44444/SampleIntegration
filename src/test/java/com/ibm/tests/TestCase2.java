@@ -8,7 +8,7 @@ public class TestCase2 {
     public void sampleTest(){
 
         System.out.println("hello again!");
-        System.out.println("4444444444444");
+        System.out.println("4444444444");
 
     }
 
